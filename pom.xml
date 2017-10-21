@@ -20,9 +20,8 @@
 
     <scm>
         <url>https://github.com/m4th/demo</url>
-        <connection>scm:git://github.com/m4th/demo.git</connection>
-        <developerConnection>scm:git@github.com/m4th/demo.git</developerConnection>
-      <tag>demo-0.0.1</tag>
+        <connection>scm:git:git@github.com:m4th/demo.git</connection>
+        <developerConnection>scm:git:git@github.com:m4th/demo.git</developerConnection>
   </scm>
 
 	<properties>
