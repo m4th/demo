@@ -4,7 +4,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>demo</name>
@@ -22,7 +22,7 @@
         <url>https://github.com/m4th/demo</url>
         <connection>scm:git:git@github.com:m4th/demo.git</connection>
         <developerConnection>scm:git:git@github.com:m4th/demo.git</developerConnection>
-    <tag>demo-0.0.1</tag>
+    <tag>head</tag>
   </scm>
 
 	<properties>
